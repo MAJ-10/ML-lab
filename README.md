@@ -1,2 +1,2 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+# ML-lab
+This repository is for branching the labs we take every week.
